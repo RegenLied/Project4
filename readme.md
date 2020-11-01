@@ -33,7 +33,7 @@ This particular recursive function requires a little creativity to get working q
 The rest of this section describes these steps in detail.
 
 ### Teams
-You may partner with another student on this project to discuss code and strategies for completing the various parts of the assignment. You may share code with your partner, but you should still write much of your own code in your own repository. You should still update your repository (by pushing) incrementally as you make progress. It is up to teammates to ensure that their partner adheres to the <a href="https://www.american.edu/academics/integrity/code.cfm">American University Honor Code.</a> You may use [pair programming](https://en.wikipedia.org/wiki/Pair_programming), however, you must each take turns in the driver role on your own laptop. I should see commits and a submission on Github for each of you to get full credit for this assignment. If you decide to work with a partner, modify the statement below:
+
 
 - [x] I worked on my own.
 - [ ] I worked with *INSERT PARTNER NAME* on this project. The parts I worked on were: *EDIT THIS*
