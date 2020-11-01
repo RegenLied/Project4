@@ -150,7 +150,3 @@ Once the analysis has concluded, let us know what approach you took.
 | 10     | Test your solution thoroughly using test cases and included data files |
 | 10     | Your code generates a report with the three required sections.|
 
-# Getting Stuck
-There are times when you might get stuck on some part of an assignment. It happens to the best of us. If you need assistance on a specific part of your code, then be sure to try to `push` the most recent version of your files to Github. It makes it much easier for your instructor and TA to provide specific feedback on individual lines of code in the files that you submit. 
-
-> Acknowledgments: This assignment builds on a nifty assignment by Keith Schwarz (htiek@cs.stanford.edu) at Stanford University.
